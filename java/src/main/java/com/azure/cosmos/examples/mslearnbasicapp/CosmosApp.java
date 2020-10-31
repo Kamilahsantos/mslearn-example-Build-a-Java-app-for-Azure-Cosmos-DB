@@ -208,7 +208,6 @@ public final class CosmosApp {
     }
   }
 
-
   private static void executeSimpleQuery(final String query) {
 
     final int preferredPageSize = 10;
